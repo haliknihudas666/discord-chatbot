@@ -1,0 +1,27 @@
+{
+  "name": "discord-chatbot",
+  "version": "0.0.1",
+  "description": "Discord Bot with integration of QnAmaker.ai",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "engines": {
+    "node": "15.6.0"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haliknihudas666/discord-qnachatbot.git"
+  },
+  "author": "Fernando Nicolei Esperida",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0"
+  }
+}
