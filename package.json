@@ -4,7 +4,7 @@
   "description": "Discord Bot with integration of QnAmaker.ai",
   "main": "index.js",
   "scripts": {
-    "run": "node index.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": "15.6.0"
